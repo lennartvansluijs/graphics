@@ -1,7 +1,7 @@
-# Free to use graphics
+# Free to use high resolution spectroscopy graphics
 
-Feel free to you use these graphics for your own purposes if you think they are helpful to you. Some credits would be nice, of course ;): just mention my full name (Lennart van Sluijs) somewhere visible.
+Feel free to you use these publicaly available graphics in this directory. I made these to explain the high resolution spectroscopy method for my own presentations slides. If you decide to use these for your own purposes, some credits would be nice of course ;). Just make sure my full name is mentioned somewhere visible.
 
-I may upload some other graphics in this folder in the future.
+I may upload more related graphics in this folder in the future.
 
 -Lennart
